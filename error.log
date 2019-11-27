@@ -1,0 +1,7 @@
+Exception: is fout in C:\xampp\htdocs\php\Error-logging-149f1dbf\error_log.php:9
+Stack trace:
+#0 C:\xampp\htdocs\php\Error-logging-149f1dbf\error_log.php(12): {closure}(2, 'Division by zer...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 {main}Exception: is fout in C:\xampp\htdocs\php\Error-logging-149f1dbf\error_log.php:9
+Stack trace:
+#0 C:\xampp\htdocs\php\Error-logging-149f1dbf\error_log.php(12): {closure}(2, 'Division by zer...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 {main}
